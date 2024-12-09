@@ -1,0 +1,55 @@
+#hero{
+    background-color: #324a51;
+}
+
+#hero h1{
+    color: #e9c330;
+    font-family: "Caprasimo", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#hero p{
+    color: white;
+    font-family: "Roboto mono";
+}
+
+#navbar a{
+    color: #c09900;
+}
+
+.param{
+    border-radius: 60%;
+    height: 100px;
+}
+
+.hardint{
+    color: #324a51;
+    
+}
+
+.softint{
+    color: #324a51;
+}
+
+
+#aboutme li{
+    text-align:center; 
+    list-style-type:none;
+    font-family: "Roboto mono";
+    font-size: 20px;
+}
+
+h2{
+    font-family: "Roboto mono";
+    color: #B59410;;
+    font-family: "Caprasimo", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+
+}
+
+ul{
+    
+}
